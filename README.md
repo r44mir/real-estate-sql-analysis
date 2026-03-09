@@ -10,7 +10,7 @@
 ## Инструменты
 
 - SQL (PostgreSQL)
-- Yandex DataLens
+- Yandex Datalens
 
 ---
 
